@@ -1,0 +1,62 @@
+
+.bg-megacarbonblack{
+	background-color: #999999;
+}
+
+
+		#brand-name{
+			font-size: 40px;
+			color: white;
+			text-shadow: 2px 1px 1px black;
+		}
+		.buttons{
+			font-size: 20px;
+			margin-right: 20px;
+			color: white;
+		}
+		
+		.buttons:hover{
+			color: white;
+			outline-color: gray;
+			outline-style: solid;
+			outline-width: 2px;
+			text-shadow: 2px 1px 10px white;
+			background-color: gray;
+			transition-duration: .3s;
+		}
+		.navbar-brand{
+			margin-right: 70px
+		}
+		
+		.plsfloatthx{
+			float: right;
+		}
+		
+			@media (min-width: 992px){
+			.navbar-nav{
+				position: absolute;
+				right: 10px;
+			}
+		}
+		
+		.main-wrapper{
+			height: 1500px;
+		}
+		
+		header > h2{
+			font-weight: bold;
+			font-size: 60px;
+		}
+
+		.title{
+			font-weight: bold;
+			margin-bottom: 10px;
+		}
+		header{
+			margin-bottom: 10%;
+		}
+		.card{
+			background-color: gray;
+			border-radius: 0;
+			margin-bottom: 50px;
+		}
